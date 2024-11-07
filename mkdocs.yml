@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: SitoPazzoSgravato
 site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -10,16 +10,16 @@ theme:
 
     # Palette toggle for light mode
     - scheme: default
-      primary: deep purple
+      primary: purple
       toggle:
-        icon: material/brightness-5
+        icon: material/brightness-3
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
-      primary: purple
+      primary: deep purple
       toggle:
-        icon: material/brightness-3
+        icon: material/brightness-1
         name: Switch to light mode
 
 
@@ -36,7 +36,7 @@ theme:
 
 
 nav:
-  - Me: Me.md
+  - Proprio io: Me.md
   - Su Di Me:
     - Chi sono: Su Di Me/Chisono.md
     - Errori: Su Di Me/Errori.md
