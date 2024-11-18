@@ -1,4 +1,4 @@
-site_name: SitoPazzoSgravato
+site_name: Documentazione
 site_url: https://mydomain.org/mysite
 theme:
   name: material
@@ -36,10 +36,10 @@ theme:
 
 
 nav:
-  - Proprio io: Me.md
-  - Su Di Me:
-    - Chi sono: Su Di Me/Chisono.md
-    - Errori: Su Di Me/Errori.md
+  - Io: Me.md
+  - About:
+    - Chi sono: About/Chisono.md
+    - Errori: About/Errori.md
 
 
 
