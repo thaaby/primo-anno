@@ -3,6 +3,8 @@ site_url: https://mydomain.org/mysite
 theme:
   name: material
 
+  language: it
+
   logo: AssetSito/butterfly.png
 
   palette:
@@ -36,10 +38,9 @@ theme:
 
 
 nav:
-  - Io: Me.md
+  - Me: Me.md
   - About:
-    - Chi sono: About/Chisono.md
     - Errori: About/Errori.md
-
+    - Lavori: Lavori/Lavori.md
 
 
