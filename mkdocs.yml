@@ -36,11 +36,14 @@ theme:
     - navigation.sections
     - navigation.expand
 
+  plugins:
+  - search
+  - mkdocs-video
+
 
 nav:
   - Me: Me.md
   - About:
     - Errori: About/Errori.md
     - Lavori: Lavori/Lavori.md
-
 
