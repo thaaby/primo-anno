@@ -38,7 +38,8 @@ theme:
 
   plugins:
   - search
-  - mkdocs-video
+  - mkdocs-video:
+      mark: "type:video"
 
 
 nav:
@@ -46,4 +47,4 @@ nav:
   - About:
     - Errori: About/Errori.md
     - Lavori: Lavori/Lavori.md
-
+  
