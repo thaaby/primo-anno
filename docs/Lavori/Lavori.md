@@ -5,4 +5,4 @@
 
 ### Questo, invece, è un video che ci è stato assegnato dal maestro di Sound Design per mettere in atto ciò che ci ha insegnato sui BPM delle canzoni, e come accorciarle in modo corretto. Io ho fatto dei video a piazza Garibaldi, e li ho uniti, facendo un taglio a quasi ogni battuta, per racccontare gli eventi di una giornata, in 1 minuto e 30 secondi.
 
-![type:video](https://youtu.be/jl-9Zdj3TN0)
+[Video](https://youtu.be/jl-9Zdj3TN0)

@@ -1,3 +1,3 @@
-(foto di me..)
+(foto di me)
 
-### L'unica cosa di interessante su di me è che ho i capelli rossi. E rosso malpelo mi ha insegnato che sarebbe meglio lasciarmi da solo in una caverna a morire di fame.
+### Sono nato a Torre del Greco il lontano 27 Ottobre del 2005. Le poche cose che ricordo della mia vita sono che ho fatto il liceo linguistico e lavorato come cameriere per anni. Con questa esperienza, il corso di NTA non c'entro proprio nulla, ma qualche anno fa ho scoperto la mia passione per i video ed il cinema. Solo per quello ho dato libertà alla mia curiosità e sono finito in quì, pensando fosse un normalissimo corso di studi, ma mi sbagliavo. All'inizio ero un po' perplesso, ma con il tempo mi sono accorto che è il posto perfetto per me. Si fanno decine di cose ogni settimana, ci si diverte, e si impara A VIVERE, sia con gli altri, sia nella nostra testa
