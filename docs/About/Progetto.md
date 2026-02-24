@@ -1,0 +1,1 @@
+L'idea è quella di creare un'opera interattiva che dovrebbe sensibilizzare sul discorso dell'inquinamento ambientale chiunque usufruisca dell'installazione. 
