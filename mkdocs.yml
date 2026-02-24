@@ -48,7 +48,7 @@ theme:
 nav:
   - Me: Me.md
   - About:
-    - Progetto: About/Errori.md
+    - Progetto: About/Progetto.md
     - Lavori: Lavori/Lavori.md
  
   
