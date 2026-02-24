@@ -1,1 +1,1 @@
-**Ciao!!!!!!!!!**
+Questo è il mio abstract di un progetto ancora in fase di sviluppo, sul mare e la sostenibilità ambientale.
